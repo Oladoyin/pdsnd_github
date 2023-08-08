@@ -4,14 +4,14 @@
 Include the date you created this project and README file.
 
 ### Project Title
-Replace the Project Title
+The Project was created on 07-01-2023
+README file created on 08-08-2023
 
 ### Description
-Describe what your project is about and what it does
+The project explores and filters data related to bike share systems for Chicago, New York City and Washington
 
 ### Files used
-Include the files used
+chicago.csv, new_york_city.csv, washington.csv, bikeshare.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+Kudos to the Udacity Team for a great program!
