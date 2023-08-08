@@ -102,8 +102,7 @@ def time_stats(df):
         3: 'march',
         4: 'april',
         5: 'may',
-        6: 'june'
-    
+        6: 'june'    
     }
     # Use the map() function to convert the 'month' column to strings
     df['month'] = df['month'].map(month_names)
