@@ -124,7 +124,6 @@ def time_stats(df):
         7: 'saturday',
         1: 'sunday'
     }
-
     df['day_of_week'] = df['day_of_week'].map(weekdays)
     
     day_mode_result = df['day_of_week'].mode()
