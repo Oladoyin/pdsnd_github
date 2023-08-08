@@ -258,7 +258,6 @@ def raw_datas(city_name):
         exit()
 
 
-
 def main():
     while True:
         city, month, day = get_filters()
