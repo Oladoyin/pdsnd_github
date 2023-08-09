@@ -14,4 +14,4 @@ The project explores and filters data related to bike share systems for Chicago,
 chicago.csv, new_york_city.csv, washington.csv, bikeshare.py
 
 ### Credits
-Kudos to the Udacity Team for a great program!
+Kudos to the Udacity Team for a great nanodegree  program!
